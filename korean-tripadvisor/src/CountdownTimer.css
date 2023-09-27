@@ -1,0 +1,14 @@
+.countdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    font-family: "Noto Sans KR";
+    font-weight: 100;
+}
+
+.countdown-part {
+    margin: 0 10px;
+    padding: 5px;
+    border-radius: 4px;
+}
